@@ -1,0 +1,2 @@
+[console_scripts]
+pip-chill = pip_chill.cli:main
