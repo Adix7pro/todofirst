@@ -3,3 +3,4 @@ gunicorn==21.2.0
 pip-chill==1.0.3
 whitenoise==6.5.0
 packaging==23.1
+config==0.5.1
