@@ -4,4 +4,4 @@ pip-chill==1.0.3
 whitenoise==6.5.0
 packaging==23.1
 config==0.5.1
-Django==4.2.3
+Django==3.2.20
